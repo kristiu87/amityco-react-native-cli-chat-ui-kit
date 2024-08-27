@@ -1,0 +1,1 @@
+{"version":3,"file":"user-provider.d.ts","sourceRoot":"","sources":["../../../src/providers/user-provider.tsx"],"names":[],"mappings":"AAGA,OAAO,KAAK,EAAE,SAAS,EAAE,MAAM,yBAAyB,CAAC;AAEzD,wBAAgB,UAAU,CAAC,KAAK,EAAE,KAAK,CAAC,IAAI,EAAE,GAAG,SAAS,EAAE,CA0B3D;AAGD,wBAAsB,YAAY,CAAC,MAAM,EAAE,MAAM,GAAG,OAAO,CAAC,GAAG,CAAC,CAY/D"}

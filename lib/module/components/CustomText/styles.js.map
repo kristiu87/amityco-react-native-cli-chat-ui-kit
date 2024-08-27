@@ -1,0 +1,1 @@
+{"version":3,"names":["StyleSheet","styles","create","text","color"],"sourceRoot":"../../../../src","sources":["components/CustomText/styles.ts"],"mappings":"AAAA,SAASA,UAAU,QAAQ,cAAc;AAEzC,MAAMC,MAAM,GAAGD,UAAU,CAACE,MAAM,CAAC;EAC/BC,IAAI,EAAE;IACJ;IACAC,KAAK,EAAE;EACT;AACF,CAAC,CAAC;AAEF,eAAeH,MAAM","ignoreList":[]}

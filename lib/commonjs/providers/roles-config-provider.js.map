@@ -1,0 +1,1 @@
+{"version":3,"names":["_react","require","RolesConfigContext","exports","createContext"],"sourceRoot":"../../../src","sources":["providers/roles-config-provider.tsx"],"mappings":";;;;;;AAAA,IAAAA,MAAA,GAAAC,OAAA;AAOO,MAAMC,kBAAkB,GAAAC,OAAA,CAAAD,kBAAA,gBAAG,IAAAE,oBAAa,EAAc,IAAI,CAAC","ignoreList":[]}

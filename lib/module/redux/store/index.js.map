@@ -1,0 +1,1 @@
+{"version":3,"names":["configureStore","RecentChatSlice","store","reducer","recentChat"],"sourceRoot":"../../../../src","sources":["redux/store/index.ts"],"mappings":"AAAA,SAAgBA,cAAc,QAAQ,kBAAkB;AAExD,OAAOC,eAAe,MAAM,2BAA2B;AAEvD,OAAO,MAAMC,KAAY,GAAGF,cAAc,CAAC;EACzCG,OAAO,EAAE;IACPC,UAAU,EAAEH,eAAe,CAACE;EAC9B;AACF,CAAC,CAAC;;AAEF;;AAEA","ignoreList":[]}

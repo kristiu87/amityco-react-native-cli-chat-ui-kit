@@ -1,0 +1,1 @@
+{"version":3,"file":"index.d.ts","sourceRoot":"","sources":["../../../../src/components/CustomTab/index.tsx"],"names":[],"mappings":"AAAA,OAAc,EAAE,KAAK,YAAY,EAAY,MAAM,OAAO,CAAC;AAW3D,UAAU,UAAU;IAClB,WAAW,EAAE,CAAC,QAAQ,EAAE,MAAM,KAAK,GAAG,CAAC;IACvC,OAAO,EAAE,MAAM,EAAE,CAAC;CACnB;AACD,QAAA,MAAM,SAAS,6BAA8B,UAAU,KAAG,YA4DzD,CAAC;AACF,eAAe,SAAS,CAAC"}

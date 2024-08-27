@@ -1,0 +1,1 @@
+{"version":3,"names":["createContext","RolesConfigContext"],"sourceRoot":"../../../src","sources":["providers/roles-config-provider.tsx"],"mappings":"AAAA,SAASA,aAAa,QAAQ,OAAO;AAOrC,OAAO,MAAMC,kBAAkB,gBAAGD,aAAa,CAAc,IAAI,CAAC","ignoreList":[]}

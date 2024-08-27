@@ -1,0 +1,1 @@
+{"version":3,"file":"index.d.ts","sourceRoot":"","sources":["../../../../src/components/LoadingOverlay/index.tsx"],"names":[],"mappings":"AAAA,OAAO,KAAK,MAAM,OAAO,CAAC;AAI1B,UAAU,mBAAmB;IAC3B,SAAS,EAAE,OAAO,CAAC;IACnB,WAAW,EAAE,MAAM,CAAC;CACrB;AAED,eAAO,MAAM,cAAc,EAAE,KAAK,CAAC,EAAE,CAAC,mBAAmB,CAkBxD,CAAC"}

@@ -1,0 +1,27 @@
+export declare const likeXml: string;
+export declare const personXml: string;
+export declare const commentXml: string;
+export declare const likedXml: string;
+export declare const arrowXml: string;
+export declare const arrowOutlined: string;
+export declare const playBtn: string;
+export declare const replyIcon: string;
+export declare const postIcon: string;
+export declare const postIconOutlined: string;
+export declare const closeIcon: string;
+export declare const cameraIcon: string;
+export declare const galleryIcon: string;
+export declare const playVideoIcon: string;
+export declare const arrowDown: string;
+export declare const searchIcon: string;
+export declare const circleCloseIcon: string;
+export declare const communityChatIcon: string;
+export declare const threeDots: string;
+export declare const privateChatIcon: string;
+export declare const officialIcon: string;
+export declare const plusIcon: string;
+export declare const categoryIcon: string;
+export declare const publicIcon: string;
+export declare const backIcon: string;
+export declare const deletedIcon: string;
+//# sourceMappingURL=svg-xml-list.d.ts.map

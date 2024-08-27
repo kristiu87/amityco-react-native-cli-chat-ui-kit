@@ -1,0 +1,177 @@
+{
+    "Select Member": {
+        "cn": "选择会员",
+        "vn": "Chọn Thành viên",
+        "th": "เลือกสมาชิก"
+    },
+    "If leave this group, you’ll no longer be able to see any messages and files.": {
+        "cn": "如果离开这个群组，您将无法再看到任何消息和文件。",
+        "vn": "Nếu bạn rời nhóm này, bạn sẽ không thể thấy bất kỳ tin nhắn và tập tin nào nữa.",
+        "th": "ถ้าออกจากกลุ่มนี้ คุณจะไม่สามารถ ที่จะเห็นข้อความ และไฟล์ใด ๆ"
+    },
+    "Done": {
+        "cn": "完成",
+        "vn": "Hoàn tất",
+        "th": "เสร็จสิ้น"
+    },
+    "Enter your display name": {
+        "cn": "输入显示名称",
+        "vn": "Nhập tên khai trương của bạn",
+        "th": "ป้อนชื่อ ที่แสดงของคุณ"
+    },
+    "sending": {
+        "cn": "发送中",
+        "vn": "Đang gửi",
+        "th": "กำลังส่ง"
+    },
+    "Cancel": {
+        "cn": "取消",
+        "vn": "Hủy",
+        "th": "ยกเลิก"
+    },
+    "Edit Message": {
+        "cn": "编辑信息",
+        "vn": "Chỉnh sửa Tin nhắn",
+        "th": "แก้ไขข้อความ"
+    },
+    "Promote to moderator": {
+        "cn": "晋升为管理员",
+        "vn": "Thăng cấp thành Quản Lý",
+        "th": "แก้ไขข้อความ"
+    },
+    "Dismiss to member": {
+        "cn": "移除会员",
+        "vn": "Loại bỏ thành viên",
+        "th": "เลิกจ้างสมาชิก"
+    },
+    "Display name": {
+        "cn": "显示名称",
+        "vn": "Tên hiển thị",
+        "th": "ชื่อที่แสดง"
+    },
+    "Leave": {
+        "cn": "离开",
+        "vn": "Rời khỏi",
+        "th": "ออก"
+    },
+    "Ok": {
+        "cn": "确定",
+        "vn": "Đồng ý",
+        "th": "ตกลง"
+    },
+    "Group profile": {
+        "cn": "群组资料",
+        "vn": "Thông tin nhóm",
+        "th": "โปรไฟล์กลุ่ม"
+    },
+    "Leave Chat": {
+        "cn": "离开聊天",
+        "vn": "Rời khỏi Cuộc trò chuyện",
+        "th": "ออกจากการสนทนา"
+    },
+    "Report User": {
+        "cn": "举报用户",
+        "vn": "Báo cáo người dùng",
+        "th": "รายงานผู้ใช้"
+    },
+    "Message Deleted": {
+        "cn": "信息已删除",
+        "vn": "Tin nhắn đã bị xóa",
+        "th": "ข้อความถูกลบ"
+    },
+    "Delete this message?": {
+        "cn": "删除这条信息？",
+        "vn": "Xóa tin nhắn này?",
+        "th": "ลบข้อความนี้หรือไม่?"
+    },
+    "Delete": {
+        "cn": "删除",
+        "vn": "Xóa",
+        "th": "ลบ"
+    },
+    "Edit Chat Detail": {
+        "cn": "编辑聊天详情",
+        "vn": "Chỉnh sửa chi tiết Chat",
+        "th": "แก้ไขรายละเอียดการแชท"
+    },
+    "Chat Detail": {
+        "cn": "聊天详情",
+        "vn": "Chi tiết Cuộc trò chuyện",
+        "th": "รายละเอียดการสนทนา"
+    },
+    "Edit": {
+        "cn": "编辑",
+        "vn": "Chỉnh sửa",
+        "th": "แก้ไข"
+    },
+    "Edited": {
+        "cn": "已编辑",
+        "vn": "Đã chỉnh sửa",
+        "th": "แก้ไขแล้ว"
+    },
+    "Permission required": {
+        "cn": "需要权限",
+        "vn": "Yêu cầu quyền truy cập",
+        "th": "ต้องการสิทธิ์"
+    },
+    "Please enable permissions to Camera.": {
+        "cn": "请启用相机的权限",
+        "vn": "Vui lòng bật quyền truy cập máy ảnh.",
+        "th": "กรุณาเปิดใช้งานการเข้าถึงกล้อง"
+    },
+    "Please enable full access to Photo Library.": {
+        "cn": "请启用对照片库的完全访问权限",
+        "vn": "Vui lòng cho phép quyền truy cập đầy đủ vào Thư viện ảnh.",
+        "th": "กรุณาเปิดใช้งานการเข้าถึงสำหรับคลังภาพ"
+    },
+    "Settings": {
+        "cn": "设置",
+        "vn": "Cài đặt",
+        "th": "การตั้งค่า"
+    },
+    "Camera": {
+        "cn": "相机",
+        "vn": "Máy ảnh",
+        "th": "กล้อง"
+    },
+    "Album": {
+        "cn": "相册",
+        "vn": "Album",
+        "th": "อัลบั้ม"
+    },
+    "Choose from Library": {
+        "cn": "从照片库中选择",
+        "vn": "Chọn từ Thư viện ảnh",
+        "th": "เลือกจากคลังภาพ"
+    },
+    "Take Photo": {
+        "cn": "拍照",
+        "vn": "Chụp ảnh",
+        "th": "ถ่ายภาพ"
+    },
+    "Member Detail": {
+        "cn": "会员详情",
+        "vn": "Quản Lý",
+        "th": "ผู้ดูแล"
+    },
+    "No Conversation": {
+        "cn": "无聊天记录",
+        "vn": "Không có Cuộc trò chuyện",
+        "th": "ไม่มีการสนทนา"
+    },
+    "Recent": {
+        "cn": "最近",
+        "vn": "Gần đây",
+        "th": "ล่าสุด"
+    },
+    "Chat": {
+        "cn": "聊天",
+        "vn": "Trò chuyện",
+        "th": "สนทนา"
+    },
+    "Message will be also be permanently removed from your friend's devices.": {
+        "cn": "信息也将从您的朋友设备上永久删除。",
+        "vn": "Tin nhắn cũng sẽ bị xóa vĩnh viễn khỏi thiết bị của bạn bè.",
+        "th": "ข้อความจะถูกลบอย่างถาวรจากอุปกรณ์ของเพื่อนของคุณด้วย"
+    }
+}
