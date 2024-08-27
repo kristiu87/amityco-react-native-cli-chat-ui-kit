@@ -1,6 +1,7 @@
 {
   "name": "@amityco/react-native-cli-chat-ui-kit",
   "version": "0.3.0",
+  "private": true,
   "description": "Chat UIKit",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
@@ -26,6 +27,7 @@
     "!**/.*"
   ],
   "scripts": {
+    "example": "yarn workspace @amityco/react-native-cli-chat-ui-kit-example",
     "test": "jest",
     "typecheck": "tsc --noEmit",
     "lint": "eslint \"**/*.{js,ts,tsx}\"",
@@ -93,6 +95,9 @@
     "react-native-screens": "*",
     "react-native-svg": "*"
   },
+  "workspaces": [
+    "example"
+  ],
   "jest": {
     "preset": "react-native",
     "modulePathIgnorePatterns": [
