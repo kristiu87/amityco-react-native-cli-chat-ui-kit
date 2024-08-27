@@ -1,0 +1,1 @@
+# amityco-react-native-cli-chat-ui-kit
